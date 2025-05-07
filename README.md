@@ -8,6 +8,13 @@ Sou Thália, tenho 27 anos e estou iniciando minha jornada em Ciência da Comput
 
 🔎 Aprendendo inglês e praticando lógica de programação.
 
+### 🚀 Meu Progresso de Aprendizado
+
+- 💻 Linguagem C: 🔵🔵⚪⚪⚪⚪⚪⚪⚪⚪ 20%  
+- 💾 Banco de Dados: 🔵🔵⚪⚪⚪⚪⚪⚪⚪⚪ 20%  
+- 🇺🇸 Inglês: 🔵🔵🔵🔵⚪⚪⚪⚪⚪⚪ 40%
+
+
 📫 Vamos nos conectar?  
 https://www.linkedin.com/in/thalia-thay/
 
