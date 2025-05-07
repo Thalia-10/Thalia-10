@@ -1,16 +1,15 @@
-## Hi there 👋
+### Olá! 👋
 
-<!--
-**Thalia-10/Thalia-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Thália, tenho 27 anos e estou iniciando minha jornada em Ciência da Computação.
 
-Here are some ideas to get you started:
+📚 Estudante do 1º semestre, em busca da minha primeira oportunidade como estagiária na área de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interesses: programação, desenvolvimento de software e cibersegurança.
+
+🔎 Aprendendo inglês e praticando lógica de programação.
+
+📫 Vamos nos conectar?  
+https://www.linkedin.com/in/thalia-thay/
+
+📧 Email:
+Thalia105@hotmail.com
