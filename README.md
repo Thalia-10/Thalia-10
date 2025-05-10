@@ -1,4 +1,5 @@
-O...l...á..., ...e...u... ...s...o...u... ...a... ...T...h...a...l...i...a... 😊
+![](https://img.shields.io/badge/Olá,%20eu%20sou%20a%20Thalia-azul?style=for-the-badge)
+
 
 
 Sou Thália, tenho 27 anos e estou iniciando minha jornada em Ciência da Computação.
