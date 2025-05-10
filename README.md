@@ -8,7 +8,8 @@ Sou Thália, tenho 27 anos e estou iniciando minha jornada em Ciência da Comput
 
 🔎 Aprendendo inglês e praticando lógica de programação.
 
-![](https://raw.githubusercontent.com/Thalia-10/Thalia-10/main/assets/progresso_estudos%20(2).png)
+<img src="https://raw.githubusercontent.com/Thalia-10/Thalia-10/main/assets/progresso_estudos%20(2).png" width="300px">
+
 
 
 
