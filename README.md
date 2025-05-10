@@ -20,4 +20,6 @@ https://www.linkedin.com/in/thalia-thay/
 
 📧 Email:
 Thalia105@hotmail.com
+
+
 ![](https://i.imgur.com/kxiyki9.gif)
