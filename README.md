@@ -1,4 +1,5 @@
-### Olá! 👋
+O...l...á..., ...e...u... ...s...o...u... ...a... ...T...h...a...l...i...a... 😊
+
 
 Sou Thália, tenho 27 anos e estou iniciando minha jornada em Ciência da Computação.
 
