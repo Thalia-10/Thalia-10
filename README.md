@@ -1,4 +1,5 @@
-![](https://img.shields.io/badge/Olá,%20eu%20sou%20a%20Thalia-azul?style=for-the-badge)
+![](https://link-do-GIF.gif)
+
 
 
 
