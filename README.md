@@ -8,11 +8,8 @@ Sou Thália, tenho 27 anos e estou iniciando minha jornada em Ciência da Comput
 
 🔎 Aprendendo inglês e praticando lógica de programação.
 
-### 🚀 Meu Progresso de Aprendizado
+![Progresso de Estudo](https://github.com/Thalia-10/Thalia-10/blob/main/assets/progresso_estudos%20(2).png)
 
-- 💻 Linguagem C: 🔵🔵⚪⚪⚪⚪⚪⚪⚪⚪ 20%  
-- 💾 Banco de Dados: 🔵🔵⚪⚪⚪⚪⚪⚪⚪⚪ 20%  
-- 🇺🇸 Inglês: 🔵🔵🔵🔵⚪⚪⚪⚪⚪⚪ 40%
 
 
 📫 Vamos nos conectar?  
