@@ -1,9 +1,10 @@
-![](https://link-do-GIF.gif)
+![](https://img.shields.io/badge/Olá,%20eu%20sou%20a%20Thalia-lightblue?style=for-the-badge&labelColor=yellow)
 
 
 
 
-Sou Thália, tenho 27 anos e estou iniciando minha jornada em Ciência da Computação.
+
+Tenho 27 anos e estou iniciando minha jornada em Ciência da Computação.
 
 📚 Estudante do 1º semestre, em busca da minha primeira oportunidade como estagiária na área de tecnologia.
 
