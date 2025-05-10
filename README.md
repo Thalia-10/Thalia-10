@@ -13,6 +13,7 @@ Sou Thália, tenho 27 anos e estou iniciando minha jornada em Ciência da Comput
 
 
 
+
 📫 Vamos nos conectar?  
 https://www.linkedin.com/in/thalia-thay/
 
